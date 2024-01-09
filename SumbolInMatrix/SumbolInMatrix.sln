@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumbolInMatrix", "SumbolInMatrix\SumbolInMatrix.csproj", "{4EA21F6C-FEC4-40BB-AFE7-1816988E52BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA21F6C-FEC4-40BB-AFE7-1816988E52BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA21F6C-FEC4-40BB-AFE7-1816988E52BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA21F6C-FEC4-40BB-AFE7-1816988E52BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA21F6C-FEC4-40BB-AFE7-1816988E52BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BD0EC6-7E02-4819-9B0D-8E7E93EA6410}
+	EndGlobalSection
+EndGlobal
