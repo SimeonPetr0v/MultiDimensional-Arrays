@@ -15,10 +15,15 @@
 
             for (int row = 0; row < size[0]; row++)
             {
-                int[] element = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
+                int[] element = Console.ReadLine()
+                    .Split(", ")
+                    .Select(int.Parse)
+                    .ToArray();
 
                 for (int col = 0; col < size[1]; col++)
+                {
                     matrix[row, col] = element[col];
+                }
             }
 
             for (int row = 0; row < size[0] - 1; row++)
